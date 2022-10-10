@@ -19,9 +19,10 @@ def predict(im1, im2):
 title="Face-id Application Demo 🤓"
 description = "Upload similar/different images to compare Image similarity for face-id demo"
 article = """
-            - Select an image from the examples provided as demo image
-            - Click submit button to make Image classification
-            - Click clear button to try new Image for classification
+            - Select any two facial images from your device or use a webcam.
+            - Alternatively, select any pair of examples facial images provided for demo
+            - Click submit button for image face comparison
+            - Click clear button to try new Images
           """
 
 img_upload = gr.Interface(
