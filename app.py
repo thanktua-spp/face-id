@@ -16,7 +16,7 @@ def predict(im1, im2):
     return sim, "DIFFERENT PEOPLE, DON'T UNLOCK"
 
 
-title="Face-id Application Demo"
+title="Face-id Application Demo 🤓"
 description = "Upload similar/different images to compare Image similarity for face-id demo"
 article = """
             - Select an image from the examples provided as demo image
